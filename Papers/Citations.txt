@@ -1,0 +1,7 @@
+T. Barbu, A. Ciobanu and M. Luca, "PDE-based image restoration using variational denoising and inpainting models," 2014 18th International Conference on System Theory, Control and Computing (ICSTCC), Sinaia, Romania, 2014, pp. 688-691, doi: 10.1109/ICSTCC.2014.6982497.
+
+Hu, Yuxuan & Wang, Hanting & Jin, Cong & Li, Bo & Tian, Chunwei. (2022). A Diffusion Model with A FFT for Image Inpainting. JOURNAL OF Cyber-Physical-Social Intelligence. 1. 60-69. 10.61702/MTPG8588.
+
+S. Xie, Z. Zhang, Z. Lin, T. Hinz and K. Zhang, "SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model," 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, BC, Canada, 2023, pp. 22428-22437, doi: 10.1109/CVPR52729.2023.02148
+
+S. Parida, V. Srinivas, B. Jain, R. Naik and N. Rao, "Survey on Diverse Image Inpainting using Diffusion Models," 2023 2nd International Conference on Paradigm Shifts in Communications Embedded Systems, Machine Learning and Signal Processing (PCEMS), Nagpur, India, 2023, pp. 1-5, doi: 10.1109/PCEMS58491.2023.10136091.
